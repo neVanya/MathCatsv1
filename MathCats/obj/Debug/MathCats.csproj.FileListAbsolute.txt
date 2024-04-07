@@ -1,0 +1,60 @@
+C:\Users\фвьшт\Source\Repos\MathCats\bin\Debug\MathCats.exe.config
+C:\Users\фвьшт\Source\Repos\MathCats\bin\Debug\MathCats.exe
+C:\Users\фвьшт\Source\Repos\MathCats\bin\Debug\MathCats.pdb
+C:\Users\фвьшт\Source\Repos\MathCats\bin\Debug\ru\MathCats.resources.dll
+C:\Users\фвьшт\Source\Repos\MathCats\obj\Debug\MathCats.csproj.AssemblyReference.cache
+C:\Users\фвьшт\Source\Repos\MathCats\obj\Debug\MathCats.csproj.SuggestedBindingRedirects.cache
+C:\Users\фвьшт\Source\Repos\MathCats\obj\Debug\MathCats.FormIntegral.resources
+C:\Users\фвьшт\Source\Repos\MathCats\obj\Debug\MathCats.MathCats.resources
+C:\Users\фвьшт\Source\Repos\MathCats\obj\Debug\MathCats.Properties.Resources.resources
+C:\Users\фвьшт\Source\Repos\MathCats\obj\Debug\MathCats.FormIntegral.ru.resources
+C:\Users\фвьшт\Source\Repos\MathCats\obj\Debug\MathCats.csproj.GenerateResource.cache
+C:\Users\фвьшт\Source\Repos\MathCats\obj\Debug\MathCats.csproj.CoreCompileInputs.cache
+C:\Users\фвьшт\Source\Repos\MathCats\obj\Debug\ru\MathCats.resources.dll
+C:\Users\фвьшт\Source\Repos\MathCats\obj\Debug\MathCats.exe
+C:\Users\фвьшт\Source\Repos\MathCats\obj\Debug\MathCats.pdb
+C:\Users\фвьшт\Source\Repos\MathCats\bin\Debug\MathNet.Numerics.dll
+C:\Users\фвьшт\Source\Repos\MathCats\bin\Debug\MathNet.Numerics.xml
+C:\Users\фвьшт\Source\Repos\MathCats\obj\Debug\MathCats.graf.resources
+C:\Users\фвьшт\Source\Repos\MathCats\obj\Debug\MathCats.csproj.CopyComplete
+C:\Users\фвьшт\source\repos\MathCats\obj\Debug\MathCats.mat.resources
+C:\Users\HP\Desktop\лабы по OS\MathCats\bin\Debug\MathCats.exe.config
+C:\Users\HP\Desktop\лабы по OS\MathCats\bin\Debug\MathCats.exe
+C:\Users\HP\Desktop\лабы по OS\MathCats\bin\Debug\MathCats.pdb
+C:\Users\HP\Desktop\лабы по OS\MathCats\bin\Debug\ru\MathCats.resources.dll
+C:\Users\HP\Desktop\лабы по OS\MathCats\bin\Debug\MathNet.Numerics.dll
+C:\Users\HP\Desktop\лабы по OS\MathCats\bin\Debug\MathNet.Numerics.xml
+C:\Users\HP\Desktop\лабы по OS\MathCats\obj\Debug\MathCats.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\лабы по OS\MathCats\obj\Debug\MathCats.FormIntegral.resources
+C:\Users\HP\Desktop\лабы по OS\MathCats\obj\Debug\MathCats.mat.resources
+C:\Users\HP\Desktop\лабы по OS\MathCats\obj\Debug\MathCats.MathCats.resources
+C:\Users\HP\Desktop\лабы по OS\MathCats\obj\Debug\MathCats.Properties.Resources.resources
+C:\Users\HP\Desktop\лабы по OS\MathCats\obj\Debug\MathCats.FormIntegral.ru.resources
+C:\Users\HP\Desktop\лабы по OS\MathCats\obj\Debug\MathCats.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\лабы по OS\MathCats\obj\Debug\MathCats.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\лабы по OS\MathCats\obj\Debug\ru\MathCats.resources.dll
+C:\Users\HP\Desktop\лабы по OS\MathCats\obj\Debug\MathCats.csproj.CopyComplete
+C:\Users\HP\Desktop\лабы по OS\MathCats\obj\Debug\MathCats.exe
+C:\Users\HP\Desktop\лабы по OS\MathCats\obj\Debug\MathCats.pdb
+C:\Users\HP\Desktop\лабы по OS\MathCats\obj\Debug\MathCats.functionFxyz.resources
+C:\Users\HP\Desktop\лабы по OS\MathCats\obj\Debug\MathCats.graphic.resources
+C:\Users\HP\Desktop\MathCats\bin\Debug\MathCats.exe.config
+C:\Users\HP\Desktop\MathCats\bin\Debug\MathCats.exe
+C:\Users\HP\Desktop\MathCats\bin\Debug\MathCats.pdb
+C:\Users\HP\Desktop\MathCats\bin\Debug\ru\MathCats.resources.dll
+C:\Users\HP\Desktop\MathCats\bin\Debug\MathNet.Numerics.dll
+C:\Users\HP\Desktop\MathCats\bin\Debug\MathNet.Numerics.xml
+C:\Users\HP\Desktop\MathCats\obj\Debug\MathCats.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\MathCats\obj\Debug\MathCats.FormIntegral.resources
+C:\Users\HP\Desktop\MathCats\obj\Debug\MathCats.functionFxyz.resources
+C:\Users\HP\Desktop\MathCats\obj\Debug\MathCats.graphic.resources
+C:\Users\HP\Desktop\MathCats\obj\Debug\MathCats.mat.resources
+C:\Users\HP\Desktop\MathCats\obj\Debug\MathCats.MathCats.resources
+C:\Users\HP\Desktop\MathCats\obj\Debug\MathCats.Properties.Resources.resources
+C:\Users\HP\Desktop\MathCats\obj\Debug\MathCats.FormIntegral.ru.resources
+C:\Users\HP\Desktop\MathCats\obj\Debug\MathCats.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\MathCats\obj\Debug\MathCats.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\MathCats\obj\Debug\ru\MathCats.resources.dll
+C:\Users\HP\Desktop\MathCats\obj\Debug\MathCats.csproj.CopyComplete
+C:\Users\HP\Desktop\MathCats\obj\Debug\MathCats.exe
+C:\Users\HP\Desktop\MathCats\obj\Debug\MathCats.pdb
